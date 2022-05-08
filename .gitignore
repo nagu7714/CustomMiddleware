@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/Middlware/v16
+/.vs
+/WenAppMiddleware/.vs/WenAppMiddleware
+/WenAppMiddleware/WenAppMiddleware/bin/Debug/netcoreapp3.1
+/WenAppMiddleware/WenAppMiddleware/obj/Debug/netcoreapp3.1/staticwebassets
+/WenAppMiddleware/WenAppMiddleware/obj
